@@ -1,0 +1,45 @@
+{
+  "dataset_path": "C:\\Users\\Mohamed Riyas\\.cache\\kagglehub\\datasets\\siddhale937e92739\\annotated-medical-image-dataset-for-spinal-lesions\\versions\\1\\physionet.org\\files\\vindr-spinexr\\1.0.0",
+  "total_files": 3155,
+  "total_images": 3146,
+  "image_formats": [
+    "DICOM"
+  ],
+  "image_dimensions": [
+    "946x1420",
+    "1142x2874",
+    "1266x2874",
+    "1540x3718",
+    "860x1527",
+    "3000x3000",
+    "1718x1939",
+    "1025x1581",
+    "1082x1569",
+    "1014x2874"
+  ],
+  "channels": [
+    1
+  ],
+  "labels": [
+    "lesion_type (bounding boxes)"
+  ],
+  "classes": {
+    "Osteophytes": 12556,
+    "No finding": 4260,
+    "Disc space narrowing": 924,
+    "Other lesions": 446,
+    "Surgical implant": 429,
+    "Foraminal stenosis": 387,
+    "Spondylolysthesis": 280,
+    "Vertebral collapse": 268
+  },
+  "annotations": [
+    "train.csv",
+    "test.csv"
+  ],
+  "vertebral_information": {
+    "localization": "Not available",
+    "segmentation": "Not available",
+    "identification": "Not available"
+  }
+}

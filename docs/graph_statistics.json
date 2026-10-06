@@ -1,0 +1,10 @@
+{
+    "average_nodes": 1.8423851120394987,
+    "min_nodes": 0,
+    "max_nodes": 19,
+    "average_edges": 3.294341055829852,
+    "single_node_graphs": 253,
+    "multi_node_graphs": 1030,
+    "zero_node_graphs": 1350,
+    "graph_density": 0.6985735677483249
+}

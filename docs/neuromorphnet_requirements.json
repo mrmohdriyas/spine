@@ -1,0 +1,76 @@
+{
+    "architecture_name": "Anatomy-Constrained Dual-Graph NeuroMorphNet for Explainable Multi-Pathology Analysis of Spine Images",
+    "datasets": {
+        "vindr_spinexr": {
+            "modality": "2D Radiograph",
+            "image": "AVAILABLE",
+            "pathology_labels": "AVAILABLE",
+            "pathology_bounding_boxes": "AVAILABLE",
+            "vertebral_localization": "NOT AVAILABLE",
+            "vertebral_identity": "NOT AVAILABLE",
+            "vertebral_segmentation": "NOT AVAILABLE",
+            "vertebral_morphology": "NOT AVAILABLE",
+            "pathology_severity": "NOT AVAILABLE",
+            "anatomical_level": "NOT AVAILABLE"
+        },
+        "verse": {
+            "modality": "3D CT",
+            "vertebral_segmentation_masks": "AVAILABLE",
+            "vertebral_centroids": "AVAILABLE",
+            "vertebral_identity": "AVAILABLE",
+            "ct_images": "AVAILABLE",
+            "spacing_information": "AVAILABLE",
+            "pathology_labels": "NOT AVAILABLE"
+        }
+    },
+    "components": {
+        "VME": {
+            "name": "Vertebral Morphology Encoder",
+            "required_data": "Vertebral masks or bounding boxes",
+            "feasible": "Partial (Requires cross-modality transfer)"
+        },
+        "ARG": {
+            "name": "Anatomical Relation Graph",
+            "required_data": "Vertebral locations and identity",
+            "feasible": "Partial (Requires cross-modality transfer)"
+        },
+        "MCAM": {
+            "name": "Morphology-Aware Cross-Attention Module",
+            "required_data": "VME features and Image features",
+            "feasible": "Yes (If VME is built)"
+        },
+        "UGDM": {
+            "name": "Uncertainty-Guided Decision Module",
+            "required_data": "Probabilistic outputs",
+            "feasible": "Yes (Algorithmic)"
+        },
+        "Multi_Pathology_Classification": {
+            "name": "Multi-pathology classification",
+            "required_data": "Multi-label pathology targets",
+            "feasible": "Yes"
+        },
+        "Severity_Grading": {
+            "name": "Severity grading",
+            "required_data": "Severity labels",
+            "feasible": "No (Not safe to assume)"
+        }
+    },
+    "modality_compatibility": {
+        "direct_combination": false,
+        "separate_training": true,
+        "transfer_learning": true,
+        "modular_framework": true
+    },
+    "research_gap": [
+        "Vertebral localization",
+        "Vertebral segmentation",
+        "Vertebral identification",
+        "Explicit morphology extraction",
+        "Anatomical graph construction",
+        "Second graph construction",
+        "Cross-attention implementation",
+        "Uncertainty modeling",
+        "Explainability implementation",
+        "Proper evaluation without leakage"
+    ]
+}
