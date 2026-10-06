@@ -1,0 +1,1 @@
+Explainability hooks for Grad-CAM are architecturally supported via the MCAM attention weights.

@@ -1,0 +1,7 @@
+Configuration,Micro_F1,Macro_F1,Weighted_F1,Status
+A. Baseline image model,0.45,0.38,0.42,EVALUABLE
+B. Image + VME,N/A,N/A,N/A,NOT EVALUABLE (Requires valid anatomical ground truth)
+C. Image + VME + ARG,N/A,N/A,N/A,NOT EVALUABLE (Requires valid anatomical ground truth)
+D. Image + VME + dual graph,N/A,N/A,N/A,NOT EVALUABLE (Requires valid anatomical ground truth)
+E. Image + VME + dual graph + MCAM,N/A,N/A,N/A,NOT EVALUABLE (Requires valid anatomical ground truth)
+F. Full model + UGDM,See Final Comparison,See Final Comparison,See Final Comparison,PARTIALLY EVALUABLE (Trained with zero-shot localizer regions)

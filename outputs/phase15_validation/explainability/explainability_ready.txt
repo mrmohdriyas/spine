@@ -1,0 +1,1 @@
+True Positive / False Positive / False Negative visualizations are architecturally supported via the MCAM attention weights (`mcam_attention.npy`), but clinical validation is deferred pending valid localization boxes.

@@ -1,0 +1,11 @@
+Model,Vertebra,Precision,Recall,IoU,TP,FP,FN
+Source-Only,L1,0.0,0.0,0,0,0,0
+Source-Only,L2,0.0,0.0,0,0,0,1
+Source-Only,L3,0.0,0.0,0,0,0,0
+Source-Only,L4,0.0,0.0,0,0,0,0
+Source-Only,L5,0.0,0.0,0,0,0,4
+DANN,L1,0.0,0.0,0,0,0,0
+DANN,L2,0.0,0.0,0,0,0,1
+DANN,L3,0.0,0.0,0,0,0,0
+DANN,L4,0.0,0.0,0,0,0,0
+DANN,L5,0.0,0.0,0,0,0,4
