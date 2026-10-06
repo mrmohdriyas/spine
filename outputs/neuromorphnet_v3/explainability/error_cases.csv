@@ -1,0 +1,121 @@
+Image ID,Pathology,Ground Truth,Prediction,Probability,Error Type
+000b3dad09378f680c845f8d7827d6ad,No finding,1.0,0.0,0.41295436,False Negative
+000bcd6560f4551b9b74abffa5a688a0,No finding,1.0,1.0,0.6129832,True Positive
+00175a890bdc7f1cc48ea616a64e6d6b,No finding,1.0,0.0,0.45715532,False Negative
+001965d7ee25b931993d6b6b1adb8cc4,No finding,1.0,1.0,0.71200764,True Positive
+003d256dd767bf8500bd7319d6792e21,No finding,1.0,1.0,0.63293105,True Positive
+00e30b6d3e73df2b8f2c5f279ddde16c,No finding,1.0,1.0,0.9676664,True Positive
+00e35c0ab10073c0d616a17abe832448,No finding,1.0,1.0,0.52261305,True Positive
+00f40c67984a9481dcaa74ecc9b4da4d,No finding,1.0,1.0,0.88660866,True Positive
+00f61276be8d5f1067337de30bded315,No finding,1.0,1.0,0.78216845,True Positive
+0133415680346fd9fb43378021b9cf2a,No finding,1.0,1.0,0.7055442,True Positive
+01822dda5e5279314ba4d08b5deacd53,No finding,1.0,0.0,0.46632943,False Negative
+01bf4f115b6a12903e336f2549e77050,No finding,0.0,1.0,0.5786304,False Positive
+01d291dc4593aab884a0199269f38d32,No finding,0.0,1.0,0.813394,False Positive
+021fcc3d4f47558ae263fdeaa74c1037,No finding,1.0,0.0,0.30980656,False Negative
+0231a1090fcff671c5a9c531ae63b7e0,No finding,0.0,1.0,0.8500305,False Positive
+02da45ccea9241fb3d90b99b718865b9,No finding,1.0,0.0,0.4295815,False Negative
+03eb0af591483600379497627c878e98,No finding,1.0,1.0,0.59519583,True Positive
+0437508b2e4d9419247f1ee4075917f5,No finding,1.0,0.0,0.25976837,False Negative
+0452c435143b3fac1e324a7acc852549,No finding,1.0,0.0,0.40185758,False Negative
+0497a8b9af6b3969375d8df353394a6f,No finding,1.0,0.0,0.17354552,False Negative
+04f7b104338fd36911ded4d1498a6e3e,No finding,1.0,1.0,0.7499272,True Positive
+052a61be7e713f7157c0275386226479,No finding,1.0,0.0,0.47393265,False Negative
+05977aa58f8fb4cabbc25fce81ce713c,No finding,1.0,1.0,0.6349123,True Positive
+05acd6de1f6f153a2ff02b25a3c93e82,No finding,0.0,1.0,0.62012064,False Positive
+06163196237fdb86482fcb3bece04423,No finding,1.0,1.0,0.9443483,True Positive
+064f5b594ebcfc2a2272bdcdc81632f0,No finding,0.0,1.0,0.50757647,False Positive
+065fff7ae7c62ea7e03f9375a31dd7bd,No finding,1.0,1.0,0.94364387,True Positive
+066dbda2c59dc6c48c836b0fba308b14,No finding,1.0,1.0,0.5026091,True Positive
+004004095d8a302b1c0815ccb044c018,Disc space narrowing,1.0,1.0,0.7460283,True Positive
+00f40c67984a9481dcaa74ecc9b4da4d,Disc space narrowing,0.0,1.0,0.51243573,False Positive
+0101087b1bce56e91b17938ef1f3cdf0,Disc space narrowing,0.0,1.0,0.64626485,False Positive
+011e836721e77f1623254a72525b1717,Disc space narrowing,0.0,1.0,0.6775472,False Positive
+01822dda5e5279314ba4d08b5deacd53,Disc space narrowing,0.0,1.0,0.51804113,False Positive
+01d291dc4593aab884a0199269f38d32,Disc space narrowing,1.0,1.0,0.8359777,True Positive
+021fcc3d4f47558ae263fdeaa74c1037,Disc space narrowing,0.0,1.0,0.9306791,False Positive
+0437508b2e4d9419247f1ee4075917f5,Disc space narrowing,0.0,1.0,0.59626645,False Positive
+0497a8b9af6b3969375d8df353394a6f,Disc space narrowing,0.0,1.0,0.91588086,False Positive
+04c204784f04c931f6d11760b10b8621,Disc space narrowing,0.0,1.0,0.73577464,False Positive
+04f7b104338fd36911ded4d1498a6e3e,Disc space narrowing,0.0,1.0,0.53279614,False Positive
+0505be939209f904b8f2af5613715b14,Disc space narrowing,0.0,1.0,0.9641751,False Positive
+05a0060f57082a20abe071395aad087d,Disc space narrowing,0.0,1.0,0.5506863,False Positive
+062955c66c0cd568f287c18027503ca9,Disc space narrowing,0.0,1.0,0.66001743,False Positive
+06a259f4ae485df99dc596672aabc991,Disc space narrowing,0.0,1.0,0.90683985,False Positive
+000bcd6560f4551b9b74abffa5a688a0,Foraminal stenosis,0.0,1.0,0.9974369,False Positive
+001965d7ee25b931993d6b6b1adb8cc4,Foraminal stenosis,0.0,1.0,0.95818675,False Positive
+005c62dd9be402dcd71211d8eb039295,Foraminal stenosis,0.0,1.0,0.6410086,False Positive
+00f61276be8d5f1067337de30bded315,Foraminal stenosis,0.0,1.0,0.81291544,False Positive
+0101087b1bce56e91b17938ef1f3cdf0,Foraminal stenosis,1.0,0.0,0.13661362,False Negative
+0133415680346fd9fb43378021b9cf2a,Foraminal stenosis,0.0,1.0,0.9502066,False Positive
+01822dda5e5279314ba4d08b5deacd53,Foraminal stenosis,0.0,1.0,0.9794002,False Positive
+03eb0af591483600379497627c878e98,Foraminal stenosis,0.0,1.0,0.96342343,False Positive
+062955c66c0cd568f287c18027503ca9,Foraminal stenosis,0.0,1.0,0.5512791,False Positive
+000b3dad09378f680c845f8d7827d6ad,Osteophytes,0.0,1.0,0.56310695,False Positive
+004004095d8a302b1c0815ccb044c018,Osteophytes,1.0,1.0,0.6939979,True Positive
+005c62dd9be402dcd71211d8eb039295,Osteophytes,1.0,1.0,0.51026005,True Positive
+00e35c0ab10073c0d616a17abe832448,Osteophytes,0.0,1.0,0.5336934,False Positive
+0101087b1bce56e91b17938ef1f3cdf0,Osteophytes,1.0,1.0,0.6818974,True Positive
+011e836721e77f1623254a72525b1717,Osteophytes,1.0,1.0,0.61522466,True Positive
+0125a5126168264d64f8af434def76d6,Osteophytes,1.0,1.0,0.5109367,True Positive
+018a409b6123d6fe2c7bdf528b15ec3c,Osteophytes,1.0,1.0,0.51638556,True Positive
+01bf4f115b6a12903e336f2549e77050,Osteophytes,1.0,0.0,0.44695228,False Negative
+01e8ea3c498eb96bf39a1f019680aa7f,Osteophytes,1.0,1.0,0.5206043,True Positive
+021fcc3d4f47558ae263fdeaa74c1037,Osteophytes,0.0,1.0,0.7007854,False Positive
+0231a1090fcff671c5a9c531ae63b7e0,Osteophytes,1.0,0.0,0.12345111,False Negative
+02376fdfd205eed32f83bfe39a2d0ffe,Osteophytes,1.0,1.0,0.80688703,True Positive
+029aa1f4edc53cf936c9c2c5b87e1907,Osteophytes,1.0,1.0,0.53930926,True Positive
+02c519e53ed8125cd0535c24ccd549ea,Osteophytes,1.0,0.0,0.4796604,False Negative
+02da45ccea9241fb3d90b99b718865b9,Osteophytes,0.0,1.0,0.5911811,False Positive
+02e122c1db0408c02747d74a0180c7b2,Osteophytes,1.0,1.0,0.547644,True Positive
+0375aca49aff215702b8600ab2c23ae6,Osteophytes,1.0,1.0,0.5724661,True Positive
+0437508b2e4d9419247f1ee4075917f5,Osteophytes,0.0,1.0,0.7103343,False Positive
+0452c435143b3fac1e324a7acc852549,Osteophytes,0.0,1.0,0.6370823,False Positive
+0497a8b9af6b3969375d8df353394a6f,Osteophytes,0.0,1.0,0.8835419,False Positive
+04a18d63e5ff0550fe3683004b643816,Osteophytes,1.0,1.0,0.61576086,True Positive
+04c204784f04c931f6d11760b10b8621,Osteophytes,1.0,1.0,0.7846862,True Positive
+0505be939209f904b8f2af5613715b14,Osteophytes,1.0,1.0,0.9064833,True Positive
+052cb7598e021dfda603a8670499b0ed,Osteophytes,1.0,1.0,0.6715542,True Positive
+05977aa58f8fb4cabbc25fce81ce713c,Osteophytes,0.0,1.0,0.6308447,False Positive
+05a0060f57082a20abe071395aad087d,Osteophytes,1.0,1.0,0.75917476,True Positive
+05acd6de1f6f153a2ff02b25a3c93e82,Osteophytes,1.0,0.0,0.4047049,False Negative
+062955c66c0cd568f287c18027503ca9,Osteophytes,1.0,1.0,0.5962919,True Positive
+064f5b594ebcfc2a2272bdcdc81632f0,Osteophytes,1.0,0.0,0.43358952,False Negative
+066dbda2c59dc6c48c836b0fba308b14,Osteophytes,0.0,1.0,0.53130513,False Positive
+06a259f4ae485df99dc596672aabc991,Osteophytes,1.0,1.0,0.88197297,True Positive
+06a9d86a89a5f55adda1c9f3d3ce121a,Osteophytes,1.0,1.0,0.6113301,True Positive
+000b3dad09378f680c845f8d7827d6ad,Other lesions,0.0,1.0,0.59653866,False Positive
+00175a890bdc7f1cc48ea616a64e6d6b,Other lesions,0.0,1.0,0.6038775,False Positive
+0101087b1bce56e91b17938ef1f3cdf0,Other lesions,0.0,1.0,0.7454519,False Positive
+011e836721e77f1623254a72525b1717,Other lesions,0.0,1.0,0.5251096,False Positive
+01e8ea3c498eb96bf39a1f019680aa7f,Other lesions,1.0,1.0,0.68241096,True Positive
+02376fdfd205eed32f83bfe39a2d0ffe,Other lesions,0.0,1.0,0.9242967,False Positive
+029aa1f4edc53cf936c9c2c5b87e1907,Other lesions,0.0,1.0,0.8232992,False Positive
+02e122c1db0408c02747d74a0180c7b2,Other lesions,0.0,1.0,0.6750531,False Positive
+0437508b2e4d9419247f1ee4075917f5,Other lesions,0.0,1.0,0.6413976,False Positive
+0452c435143b3fac1e324a7acc852549,Other lesions,0.0,1.0,0.7634617,False Positive
+04a18d63e5ff0550fe3683004b643816,Other lesions,0.0,1.0,0.8562789,False Positive
+052a61be7e713f7157c0275386226479,Other lesions,0.0,1.0,0.5871103,False Positive
+052cb7598e021dfda603a8670499b0ed,Other lesions,0.0,1.0,0.6097418,False Positive
+05acd6de1f6f153a2ff02b25a3c93e82,Other lesions,0.0,1.0,0.63894945,False Positive
+064f5b594ebcfc2a2272bdcdc81632f0,Other lesions,0.0,1.0,0.5153557,False Positive
+000b3dad09378f680c845f8d7827d6ad,Spondylolysthesis,0.0,1.0,0.5614415,False Positive
+0101087b1bce56e91b17938ef1f3cdf0,Spondylolysthesis,1.0,1.0,0.82268196,True Positive
+018a409b6123d6fe2c7bdf528b15ec3c,Spondylolysthesis,0.0,1.0,0.54709387,False Positive
+021fcc3d4f47558ae263fdeaa74c1037,Spondylolysthesis,0.0,1.0,0.6368871,False Positive
+02da45ccea9241fb3d90b99b718865b9,Spondylolysthesis,0.0,1.0,0.50861627,False Positive
+0375aca49aff215702b8600ab2c23ae6,Spondylolysthesis,0.0,1.0,0.7475298,False Positive
+0437508b2e4d9419247f1ee4075917f5,Spondylolysthesis,0.0,1.0,0.83987737,False Positive
+0497a8b9af6b3969375d8df353394a6f,Spondylolysthesis,0.0,1.0,0.8845239,False Positive
+04c204784f04c931f6d11760b10b8621,Spondylolysthesis,0.0,1.0,0.948259,False Positive
+0505be939209f904b8f2af5613715b14,Spondylolysthesis,0.0,1.0,0.5044173,False Positive
+052a61be7e713f7157c0275386226479,Spondylolysthesis,0.0,1.0,0.62132996,False Positive
+05a0060f57082a20abe071395aad087d,Spondylolysthesis,0.0,1.0,0.93257695,False Positive
+06a259f4ae485df99dc596672aabc991,Spondylolysthesis,0.0,1.0,0.96303356,False Positive
+06a9d86a89a5f55adda1c9f3d3ce121a,Spondylolysthesis,0.0,1.0,0.7034033,False Positive
+01e8ea3c498eb96bf39a1f019680aa7f,Surgical implant,1.0,1.0,0.96564496,True Positive
+052cb7598e021dfda603a8670499b0ed,Surgical implant,1.0,1.0,0.9999503,True Positive
+0101087b1bce56e91b17938ef1f3cdf0,Vertebral collapse,0.0,1.0,0.6284261,False Positive
+011e836721e77f1623254a72525b1717,Vertebral collapse,1.0,0.0,0.07403516,False Negative
+052cb7598e021dfda603a8670499b0ed,Vertebral collapse,0.0,1.0,0.62181145,False Positive
+06a259f4ae485df99dc596672aabc991,Vertebral collapse,0.0,1.0,0.6439108,False Positive

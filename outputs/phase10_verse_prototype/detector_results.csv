@@ -1,0 +1,2 @@
+image_id,pred_label,score,x_min,y_min,x_max,y_max
+verse_005.png,5,0.515035,108.36103,6.7572284,151.80202,25.012035

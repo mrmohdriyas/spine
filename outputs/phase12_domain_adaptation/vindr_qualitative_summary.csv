@@ -1,0 +1,6 @@
+image_id,source_num_detections,adapted_num_detections,source_ordering_valid,adapted_ordering_valid,source_mean_confidence,adapted_mean_confidence,qualitative_notes
+3dc6797f2b0b709635211b7967d44bdc,2,1,False,True,0.6030443012714386,0.7455375790596008,Awaiting manual review
+64635d0ec85d91cf16ad77e8401aaa08,0,0,False,False,0.0,0.0,Awaiting manual review
+6b4ad446c3a60f2e65becd60fa0f458a,0,0,False,False,0.0,0.0,Awaiting manual review
+9c8aa8694672c9d6bd2ddab17c01b06a,0,0,False,False,0.0,0.0,Awaiting manual review
+8090f170ac6763c1fa9e72991dfeb1e7,0,1,False,True,0.0,0.5625432729721069,Awaiting manual review

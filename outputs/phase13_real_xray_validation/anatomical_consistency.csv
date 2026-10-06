@@ -1,0 +1,11 @@
+model,image_id,num_detections,has_duplicates,valid_ordering
+Source-Only,9c8aa8694672c9d6bd2ddab17c01b06a,0,False,False
+DANN-Finetuned,9c8aa8694672c9d6bd2ddab17c01b06a,0,False,False
+Source-Only,86942a504fd85a3d435432f123feffe8,0,False,False
+DANN-Finetuned,86942a504fd85a3d435432f123feffe8,0,False,False
+Source-Only,8669f312fecabad1878a19db7314a0f6,0,False,False
+DANN-Finetuned,8669f312fecabad1878a19db7314a0f6,0,False,False
+Source-Only,7018f34470990373e83d747982e27da8,0,False,False
+DANN-Finetuned,7018f34470990373e83d747982e27da8,0,False,False
+Source-Only,6d8a4ef83e42306170d7b8972a6ee55b,0,False,False
+DANN-Finetuned,6d8a4ef83e42306170d7b8972a6ee55b,0,False,False
