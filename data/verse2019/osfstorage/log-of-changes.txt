@@ -1,0 +1,12 @@
+
+17-Jul-2019  JSK Launched this repository
+21-Jan-2020  JSK Updated References in license.txt and readme.txt
+21-Jan-2020  AS  Made this repository open to the Public
+06-Feb-2020  JSK Updated the Link for Reference 3
+06-Feb-2020  JSK Updated Segmentation of Verse031: removed a stray segmentation
+06-Mar-2020  JSK Reference 1 got accepted!
+16-Apr-2020  MTL Updated Segmentation of Verse063: removed stray voxels
+16-Apr-2020  MTL Updated Segmentation of Verse267: removed segmenation of right rip T12
+29-Dec-2020  MTL Ground truth data released in BIDS format
+10-Jan-2020  JSK Link to VerSe2020 updated, Data organization changed, WIKIs updated including data format descriptions
+11-Jan-2020  JSK Complete data released in MICCAI-Challenge format
