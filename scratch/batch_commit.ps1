@@ -5,7 +5,7 @@ $batch = @()
 $currentBatchSize = 0
 
 # Auto-detect the next commit number from git log
-$lastCommitMsg = git log -1 --pretty=%B
+$lastCommitMsg = (git log -1 --pretty=%B) -join "`n"
 $commitNum = 1
 if ($lastCommitMsg -match "Batch commit (\d+)") {
     $commitNum = [int]$matches[1] + 1

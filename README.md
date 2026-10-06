@@ -404,3 +404,22 @@ python -m venv .venv
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+---
+
+## 29. Utilities
+
+### Batch Committing (`scratch\batch_commit.ps1`)
+
+Due to the presence of large checkpoint models (`.pt`) and an extensive volume of output files, standard Git pushes may hit size bottlenecks or time out. A PowerShell utility script is provided to automatically split untracked files into size-capped batch commits (50 MB max per commit) and safely upload them to the remote repository.
+
+**Features:**
+- Designed for `git lfs` compliance for `*.pt` files (ensure LFS is initialized before running).
+- Dynamic size tracking to prevent commits from exceeding 50 MB.
+- Push auto-resume capability that reads the git log to continue numbering.
+
+**How to run (Windows):**
+```powershell
+# From the repository root
+pwsh -ExecutionPolicy Bypass -File scratch/batch_commit.ps1
+```
