@@ -1,0 +1,4 @@
+Model,Micro_F1,Macro_F1,Weighted_F1
+ResNet18,0.4,0.2751,0.597
+NeuroMorphNet V3,0.4906,0.3614,0.6473
+Final NeuroMorphNet,0.3918,0.0766,0.2627

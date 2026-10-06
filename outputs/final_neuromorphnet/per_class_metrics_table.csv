@@ -1,0 +1,9 @@
+Class,Precision,Recall,F1,Support
+Osteophytes,1.0,0.0416666666666666,0.08,24
+No finding,0.0,0.0,0.0,2
+Disc space narrowing,0.0,0.0,0.0,1
+Other lesions,0.5,0.75,0.6,24
+Surgical implant,0.0,0.0,0.0,1
+Foraminal stenosis,0.0,0.0,0.0,1
+Spondylolysthesis,0.0,0.0,0.0,2
+Vertebral collapse,0.0,0.0,0.0,1

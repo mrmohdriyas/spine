@@ -1,0 +1,9 @@
+Class,TN,FP,FN,TP
+Osteophytes,25,0,23,1
+No finding,47,0,2,0
+Disc space narrowing,48,0,1,0
+Other lesions,7,18,6,18
+Surgical implant,48,0,1,0
+Foraminal stenosis,48,0,1,0
+Spondylolysthesis,46,1,2,0
+Vertebral collapse,45,3,1,0
